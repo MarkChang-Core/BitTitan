@@ -1,9 +1,7 @@
 # Microsoft 365 Exchange Online to Microsoft 365 Exchange Online Strategy
-<br>
 針對Tenant to Tenant 的郵件遷移，會是最常出現的需求之一，郵件遷移至今已經是相當成熟的技術，<br>
-<br>
 因此多數執行者都在致力將遷移流程更加平滑、對使用者的影響也要降到最低，因此通常遷移上可分類為 - <br>
-<br>
+
 > Speed Migration
 Speed Migration的觀念是快速先遷移小部分的信件(例如近一個月)，由於遷移的速度會非常快，<br>
 因此在初次遷移完成後，即可切換MX Record，讓使用者恢復正常使用，後續信件則再緩慢地進行遷移。<br>
