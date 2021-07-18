@@ -20,7 +20,7 @@
 
 通常遷移策略上，我們依據這個流程進行完成的遷移作業 - 
 
-> Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > P
+```**Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > Pre-Stage Migration**```
 
 ## 環境與事前確認
 
