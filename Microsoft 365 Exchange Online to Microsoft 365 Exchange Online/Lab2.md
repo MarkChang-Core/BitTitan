@@ -41,4 +41,4 @@ Step 6. Source與Destination均設定完成後，由於當前情境是Tenant to 
 
 ---
 
-當前述設定完成後，點選保存項目即創建完成，可前往 [Lab3 開始進行遷移]((https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab.md))。
+當前述設定完成後，點選保存項目即創建完成，可前往 [Lab3 開始進行遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab.md)。
