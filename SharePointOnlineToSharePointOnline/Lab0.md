@@ -1,4 +1,4 @@
-# Microsoft 365 SharePoint Online to SharePoint Online
+# Microsoft 365 SharePoint Online to Microsoft 365 SharePoint Online
 
 ## 情境說明與策略
 
