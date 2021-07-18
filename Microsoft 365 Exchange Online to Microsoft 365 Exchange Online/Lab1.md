@@ -28,4 +28,6 @@
 
 因此我們還是建議你可以先到Destination中創建完成所有的使用者帳號。
 
+---
+
 當這些資訊與環境都準備完成後，您可前往 [Lab2 開始遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab2.md)
