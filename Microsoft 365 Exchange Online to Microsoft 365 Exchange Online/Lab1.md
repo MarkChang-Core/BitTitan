@@ -6,9 +6,9 @@
 
 因此本篇文章也將會模擬各一組的Source與Destination來進行細部解析，資訊如下 - 
 
-> Source - user01@bittitan-lab.com
+```Source - user01@bittitan-lab.com```
 
-> Destination - user01@bittitandestination.onmicrosoft.com
+```Destination - user01@bittitandestination.onmicrosoft.com```
 
 由於是Tenant to Tenant的Migration，因此在最初的狀態之下 Destination 一定不會與 Source 的網域相同，
 
@@ -20,7 +20,7 @@
 
 通常遷移策略上，我們依據這個流程進行完成的遷移作業 - 
 
-```**Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > Pre-Stage Migration**```
+```Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > Pre-Stage Migration```
 
 ## 環境與事前確認
 
