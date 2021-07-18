@@ -35,5 +35,5 @@
 
 ---
 
-前往 [Lab1 環境與事前確認](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab1.md)。
+前往 [Lab1 環境與事前確認](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab1.md)。
 
