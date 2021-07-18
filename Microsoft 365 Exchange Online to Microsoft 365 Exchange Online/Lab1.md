@@ -12,4 +12,4 @@
 
 ### Source 環境準備
 
-### D 環境準備
+### Destination 環境準備
