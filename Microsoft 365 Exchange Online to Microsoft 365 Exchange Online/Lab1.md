@@ -22,7 +22,7 @@
 
 > Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > Pre-Stage Migration
 
-分別是 - 
+這些流程代表的觀念分別是 - 
 
 - 測試來源與目的的憑證是否正確
 - 測試遷移來評估遷移速率與正確率
