@@ -24,4 +24,14 @@ BitTitan 提供新增Items的方式共有 4 種，但因應Tenant to Teanant的�
 
 #### 3. Autodiscover Items -
 
+如果透過Autodiscover，會非常節省人力的方式來新增使用者帳號，但其方式主要是自動尋找Source的UPN，並對應上Destination，
+
+換言之若你的情境中Source與Destination是完全不同的UPN，那麼這個方式將不適合你使用。
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image3-3.jpg)<br>
+
+---
+
+在依據你所需要的方式建立完任務之後，接下來就可以開始進行遷移的項目，
+
 Step 1. 點選畫面上方的 ***Add*** 以新增 Items。
