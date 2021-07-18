@@ -34,4 +34,4 @@
 
 ---
 
-當這些資訊與環境都準備完成後，您可前往 [Lab2 建立遷移項目](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab2.md)
+當這些資訊與環境都準備完成後，可前往 [Lab2 建立遷移項目](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab2.md)
