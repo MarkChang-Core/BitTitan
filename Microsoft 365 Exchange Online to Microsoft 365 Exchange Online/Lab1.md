@@ -23,3 +23,9 @@
 由於BitTitan支援透過全域管理員的Credenitail作為驗證，因此在整理出的遷移清單中，是可以不填入密碼的。
 
 ### Destination 環境準備
+
+雖說BitTitan可以依據你的Source資訊到Destination中創建使用者帳號，但由於這樣做的過程比較繁瑣，
+
+因此我們還是建議你可以先到Destination中創建完成所有的使用者帳號。
+
+當這些資訊與環境都準備完成後，您可前往 [Lab2 開始遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab2.md)
