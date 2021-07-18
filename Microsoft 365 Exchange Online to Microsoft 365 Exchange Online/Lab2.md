@@ -37,7 +37,7 @@ Step 6. Source與Destination均設定完成後，由於當前情境是Tenant to 
 > 但，原先已創建完成的Destination將遭到移除並重新創建<br>
 > 此外，這個功能僅可提供給 Source 與 Destination 網域 ***不相同*** 的情境適用。
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-5.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-6.jpg)<br>
 
 ---
 
