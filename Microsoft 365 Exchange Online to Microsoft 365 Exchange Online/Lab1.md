@@ -20,14 +20,17 @@
 
 通常遷移策略上，我們依據這個流程進行完成的遷移作業 - 
 
-```Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > Pre-Stage Migration```
+> Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > Pre-Stage Migration
 
-## 環境與事前確認
+分別是 - 
 
-## 準備Source環境
+- 測試來源與目的的憑證是否正確
+- 測試遷移來評估遷移速率與正確率
+- 完整遷移所有資料
+- 遷移完成後的錯誤重試
+- 等待資料遷移告一段落後可切換MX Record
+- 切換MX Record完成後則需再進行一次遷移確保資料沒有落差
 
-## 準備Desination 環境
+關於上述的遷移策略，將於後續的章節之中，逐一說明遷移過程所需要執行的操作步驟與注意事項。
 
-## 開始遷移
-
-## 遷移完成後
+前往 [Lab1 環境與事前確認]()。
