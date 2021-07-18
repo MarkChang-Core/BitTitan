@@ -1,6 +1,6 @@
 # Microsoft 365 Exchange Online to Microsoft 365 Exchange Online
 
-## Lab 2 - 開始遷移
+## Lab 2 - 建立遷移項目
 
 當完成Source與Destination的遷移準備之後，接下來就需要開始進行遷移了，你可以按照以下步驟進行 - 
 
@@ -27,8 +27,6 @@ Step 4. 在Source建立頁面，選擇 ***新建(Create)***，接著給定Source
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-4.jpg)<br>
 
-Step 5.
+Step 5. 在Destination的設定與Source相同，唯一差別在於這時的Administrator更改為Destination了 -
 
-Step 1. 
-Step 1. 
-Step 1. 
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-5.jpg)<br>
