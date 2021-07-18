@@ -8,13 +8,13 @@
 
 BitTitan 提供新增Items的方式共有 4 種，但因應Tenant to Teanant的情境，因此本文中僅會說明 3 種，分別是 -<br>
 
-- Quick Add - 
+#### Quick Add - 
 
 此功能為快速添加，點選後可直接輸入Source與其對應的Destination，並且快速加入一組Item<br>
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image3-1.jpg)<br>
 
-- 批量添加 - 
+#### 批量添加 - 
  
 透過此功能可一次性以CSV檔案新增大量的使用者，點選後可以下載範例的CSV檔案，接著可以利用 [Lab1](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab1.md) 所蒐集的資料進行新增。<br>
 
@@ -22,6 +22,6 @@ BitTitan 提供新增Items的方式共有 4 種，但因應Tenant to Teanant的�
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image3-2.jpg)<br>
 
-- Autodiscover Items - <br>
+#### Autodiscover Items - <br>
 
 Step 1. 點選畫面上方的 ***Add*** 以新增 Items。
