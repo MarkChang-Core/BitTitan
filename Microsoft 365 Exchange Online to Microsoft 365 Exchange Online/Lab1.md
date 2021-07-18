@@ -28,11 +28,21 @@
 
 由於BitTitan支援透過全域管理員的Credenitail作為驗證，因此在整理出的遷移清單中，是可以不填入密碼的。
 
+#### Source 管理者權限確認
+
+請先確認管理者權限已經開啟 Exchange System Admin 權限
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image1-.jpg)<br>
+
 ### Destination 環境準備
 
-雖說BitTitan可以依據你的Source資訊到Destination中創建使用者帳號，但由於這樣做的過程比較繁瑣，
+雖說BitTitan可以依據你的Source資訊到Destination中創建使用者帳號，但由於採用此方式過程較為繁瑣，且需設定更多權限，
 
-因此我們還是建議你可以先到Destination中創建完成所有的使用者帳號。
+因此還是建議可先到Destination中創建完成所有的使用者帳號。
+
+#### Destination 管理者權限確認
+
+同前述，也請先確認管理者權限已經開啟 Exchange System Admin 權限
 
 ---
 
