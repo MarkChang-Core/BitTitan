@@ -12,6 +12,12 @@
 
 ### Source 環境準備
 
+在遷移之中，會需要使用到全域管理員身分作為Credential，若是無法索取到全域管理員，至少必須是對於來源端信箱具有完整存取權限的帳號，
+
+詳情可以參考 -
+
+https://help.bittitan.com/hc/en-us/articles/360041202494-MigrationWiz-Permission-Requirements#office-365-exchange-online-mailbox-and-archive--0-4
+
 若需要遷移大量的使用者，BitTitan可支援批量匯入的功能，因此你可以先到 Microsoft 365 Portal 之中，將使用者名單大量匯出 -
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image1-1.jpg)<br>
