@@ -12,9 +12,14 @@ Step 2. 在項目類型之中，選擇需要建立的項目類型，選擇 ***Cr
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-2.jpg)<br>
 
-Step 1. 
+Step 3. 在項目信息中，幫接下來要進行的遷移項目建立一個好記名稱，並且給定客戶名稱
 
-Step 1. 
+> Tips. 若你的身分是系統整合商，且正協助客戶進行遷移，未來也可能長期使用BitTitan，建議你可以針對不同客戶建立客戶名稱，
+但若是你的身分為終端客戶，那麼選擇Default也是可以的選項。 
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-3.jpg)<br>
+
+Step 4. 
 
 Step 1. 
 Step 1. 
