@@ -8,7 +8,9 @@ Step 1. 創建專案(Project)，登入BitTitan的 [MigrationWiz](https://migrati
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-1.jpg)<br>
 
-Step 2. 
+Step 2. 在項目類型之中，選擇需要建立的項目類型，選擇 ***Create a Mailbox Project*** -
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-2.jpg)<br>
 
 Step 1. 
 
