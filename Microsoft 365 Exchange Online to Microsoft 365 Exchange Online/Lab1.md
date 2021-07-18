@@ -18,6 +18,10 @@
 
 再將2組EndPoint互相連接成一個Project之後，在Project之中進行不同使用者帳號的資料遷移(Task)。
 
+通常遷移策略上，我們依據這個流程進行完成的遷移作業 - 
+
+> Verify credenitial > Trial Migration > Full-Migration > Retry Error > MX Record Change > P
+
 ## 環境與事前確認
 
 ## 準備Source環境
