@@ -42,16 +42,11 @@ Step 2. 勾選(或全選)Items後，點選工具列中的 ***Apply Licenses*** �
 
 Step 2. 等待Items建立完成後，勾選(或全選)Items後，點選工具列中 ***Start*** 並依情境需要選擇後，開始進行遷移。
 
-> 關於 Items 的執行方式，可以分類為 -<br>
-
-> Verify Credentials - 測試Source與Destination是否正確，一般若是通過此項，即代表設定完成<br>
-
-> Trial Migration - 嘗試遷移Source當中的前10個物件(Object)或是前10MB的物件(Object)，通常用於測試遷移速率<br>
-
-> Pre-Stage Migration - 遷移指定時間區間中的物件<br>
-
-> Full Migration - 完整遷移所有資料<br>
-
-> Retry Errors - 針對已執行完成一次完整遷移的Items中產生的錯誤進行重試<br>
+關於 Items 的執行方式，可以分類為 -<br>
+- Verify Credentials - 測試Source與Destination是否正確，一般若是通過此項，即代表設定完成<br>
+- Trial Migration - 嘗試遷移Source當中的前10個物件(Object)或是前10MB的物件(Object)，通常用於測試遷移速率<br>
+- Pre-Stage Migration - 遷移指定時間區間中的物件<br>
+- Full Migration - 完整遷移所有資料<br>
+- Retry Errors - 針對已執行完成一次完整遷移的Items中產生的錯誤進行重試<br>
 
 > Tips. 在Verify Credentials 與 Trial Migration 是不需要購買License即可進行的。
