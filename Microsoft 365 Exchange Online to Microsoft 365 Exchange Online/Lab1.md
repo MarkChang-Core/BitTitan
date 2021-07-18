@@ -6,5 +6,10 @@
 
 ```Source - user01@bittitan-lab.com (Microsoft 365 Business Standard)```
 
-```D - user01@bittitandestination.onmicrosoft.com (Microsoft 365 Business Standard)```
+```Destination - user01@bittitandestination.onmicrosoft.com (Microsoft 365 Business Standard)```
 
+首先需要先針對 Source 環境進行一些準備，詳細說明如下。
+
+### Source 環境準備
+
+### D 環境準備
