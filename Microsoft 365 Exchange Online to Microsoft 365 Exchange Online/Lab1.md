@@ -40,9 +40,7 @@
 
 因此還是建議可先到Destination中創建完成所有的使用者帳號。
 
-#### Destination 管理者權限確認
-
-同前述，也請先確認管理者權限已經開啟 Exchange System Admin 權限
+而管理者權限則同前述，也請先確認管理者權限已經開啟 Exchange System Admin 權限
 
 ---
 
