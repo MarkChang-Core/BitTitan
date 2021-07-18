@@ -18,4 +18,4 @@ BitTitan 是一項針對SaaS所設計的一系列遷移服務，本篇說明將�
 - Google Worksapce Personal Drive to Microsoft 365 OneDrive
 - Google Worksapce Shared Drive to Microsoft 365 SharePoint Online
 
-To 
+To be continue
