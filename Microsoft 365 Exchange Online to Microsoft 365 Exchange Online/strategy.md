@@ -4,7 +4,7 @@
 <br>
 因此多數執行者都在致力將遷移流程更加平滑、對使用者的影響也要降到最低，因此通常遷移上可分類為 - <br>
 <br>
-- Speed Migration
+> Speed Migration
 <br>
 > Speed Migration的觀念是快速先遷移小部分的信件(例如近一個月)，由於遷移的速度會非常快，<br>
 <br>
