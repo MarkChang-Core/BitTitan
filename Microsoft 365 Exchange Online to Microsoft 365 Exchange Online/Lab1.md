@@ -32,7 +32,7 @@
 
 請先確認管理者權限已經開啟 Exchange System Admin 權限
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image1-.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image1-3.jpg)<br>
 
 ### Destination 環境準備
 
