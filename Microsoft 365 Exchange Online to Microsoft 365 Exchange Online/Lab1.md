@@ -12,7 +12,7 @@
 
 ### Source 環境準備
 
-在遷移之中，會需要使用到全域管理員身分作為Credential，若是無法索取到全域管理員，至少必須是對於來源端信箱具有完整存取權限的帳號，
+在遷移之中，會需要使用到全域管理員身分作為Credential，若無法索取到全域管理員，至少需是對Source信箱具有存取權限的帳號，
 
 詳情可以參考 - [MigrationWiz – Permission Requirements](https://help.bittitan.com/hc/en-us/articles/360041202494-MigrationWiz-Permission-Requirements#office-365-exchange-online-mailbox-and-archive--0-4)
 
