@@ -21,9 +21,9 @@ Step 3. 在項目信息中，幫接下來要進行的遷移項目建立一個好
 
 Step 4. 在Source建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，並將端點類型選擇為 ***Microsoft 365***，並輸入Administrator登入資訊 -
 
-> Tips. 於此處可以選擇 ***Provide Credentials*** 或 ***Do not provide credentials*** 兩者的差異如下 -
-> Provide Credentials - 往後於此項目的遷移任務中，均依據您當前提供的管理者登入資訊。
-> Do not provide credentials - 往後於此項目的遷移任務中，均需要額外提供每一個使用者帳號的登入資訊作為驗證。
+> Tips. 於此處可以選擇 ***Provide Credentials*** 或 ***Do not provide credentials*** 兩者的差異如下 - <br>
+> Provide Credentials - 往後於此項目的遷移任務中，均依據您當前提供的管理者登入資訊。<br>
+> Do not provide credentials - 往後於此項目的遷移任務中，均需要額外提供每一個使用者帳號的登入資訊作為驗證。<br>
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-4.jpg)<br>
 
