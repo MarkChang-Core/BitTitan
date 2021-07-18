@@ -1,4 +1,4 @@
-# Microsoft 365 One Drive to Microsoft 365 One Drive
+# Microsoft 365 One Drive to One Drive
 
 ## 情境說明與策略
 
