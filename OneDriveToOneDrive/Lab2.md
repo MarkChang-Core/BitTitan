@@ -1,3 +1,5 @@
 UseApplicationPermission=1
 
 DestPersonalSiteIsProvisioned=1
+
+ForceOneDriveNonGlobalAdminAuthExport=1
