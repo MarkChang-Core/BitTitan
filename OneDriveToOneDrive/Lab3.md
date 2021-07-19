@@ -30,7 +30,7 @@ Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-2.jpg)<br>
 
-Step 5. 在Destination Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，並將端點類型選擇為 ***OneDrive for Business***，<br>
+Step 5. 在Destination Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint好記名稱，並將端點選擇為 ***OneDrive for Business***，<br>
 並輸入Administrator登入資訊後，需要輸入在 [Lab2](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md#1-azure-storage-account) 中建立的Azure Storage Account資訊 -
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-3.jpg)<br>
@@ -48,8 +48,11 @@ Step 1. 進入方才建立完成的項目後，點擊畫面左上角的 ***編�
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-4.jpg)<br>
 
 Step 2. 於 ***Support頁籤*** 中，逐一輸入以下參數後，點選 ***Save*** -<br>
+
 ```DestPersonalSiteIsProvisioned=1```<br>
+
 ```UseApplicationPermission=1```<br>
+
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-5.jpg)<br>
 
 ---
