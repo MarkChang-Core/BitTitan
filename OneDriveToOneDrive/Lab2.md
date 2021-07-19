@@ -1,5 +1,6 @@
+# Microsoft 365 One Drive to Microsoft 365 One Drive
 
-## Destination 環境與事前確認
+## LDestination 環境與事前確認
 
 雖說BitTitan可以依據你的Source資訊到Destination中創建使用者帳號，但由於採用此方式過程較為繁瑣，且需設定更多權限，
 
