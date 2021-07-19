@@ -28,7 +28,7 @@ Step2. 接著請在 Source 與 Destination 的 Microsoft 365 Admin Center 中，
 
 設定完成後，將用來作為BitTitan驗證憑據的管理員加入成為 ***成員***<br>
 
-Step3. 接著請以全域管理者身分，授權BitTitan API的存取權，透過全域管理員身分登入 BitTitan 所提供的授權連結 -<br>
+Step3. 接著請以全域管理員身分，授權BitTitan API的存取權，透過全域管理員身分登入 BitTitan 所提供的授權連結 -<br>
 
 https://login.microsoftonline.com/common/adminconsent?client_id=0173390d-c130-431b-bd6b-f096a2ccad4e&state=12345<br>
 
