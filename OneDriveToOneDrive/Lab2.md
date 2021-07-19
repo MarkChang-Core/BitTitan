@@ -44,6 +44,8 @@ Step 5. 創建完成Azure Storage Account後，請對應於Blade中找到 ***存
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-8.jpg)<br>
 
+---
+
 ### 2. Destination Microsoft 365 OneDrive Pre-provision
 
 通常在遷移開始之前，多數管理者均以在Destination中建立完成了具有OneDrive授權的使用者，但Microsoft 365的OneDrive在使用者首次登入前，
@@ -62,16 +64,16 @@ Step 1. 點擊下載 [Pre-provision_OneDrive.ps1](https://github.com/MarkChang-C
 
 Step 2. 回到本機端，以系統管理員身分執行 PowerShell
 
-Step 3. 先確保已經完成安裝 SharePoint Online 管理命令介面 PowerShell，執行指令 
+Step 3. 先確保已經完成安裝 SharePoint Online 管理命令介面 PowerShell，執行以下指令 - <br>
 
 ```Get-Module -Name Microsoft.Online.SharePoint.PowerShell -ListAvailable | Select Name,Version```
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive2-6.jpg)<br>
 
-> Tips. 若未完成 SharePoint Online 管理命令介面 PowerShell 的安裝，請執行以下命令進行安裝 - 
+> Tips. 若未完成 SharePoint Online 管理命令介面 PowerShell 的安裝，請執行以下命令進行安裝 - <br>
 > ```Install-Module -Name Microsoft.Online.SharePoint.PowerShell```
 
-> Tips. 若您不具備系統管理員身分，也可執行以下指令針對當前使用者進行安裝 - 
+> Tips. 若您不具備系統管理員身分，也可執行以下指令針對當前使用者進行安裝 - <br>
 > ```Install-Module -Name Microsoft.Online.SharePoint.PowerShell -Scope CurrentUser```
 
 Step 4. 執行方才下載的 Pre-provision_OneDrive.ps1，執行後會需要輸入Credential，請輸入 Destination 的系統管理員登入資訊
@@ -79,6 +81,8 @@ Step 4. 執行方才下載的 Pre-provision_OneDrive.ps1，執行後會需要輸
 > Tips. Pre-provision_OneDrive.ps1 的內容將為組織中的所有授權使用者預先佈建 OneDrive，若希望針對各別使用者佈建，請參考 [連結](https://docs.microsoft.com/zh-tw/onedrive/pre-provision-accounts#pre-provision-onedrive-for-users)
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive2-7.jpg)<br>
+
+---
 
 ### 3. Destination 管理者與應用程式權限
 
