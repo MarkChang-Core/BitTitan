@@ -16,10 +16,6 @@
 
 ### 1. Azure Storage Account
 
-在BitTitan的遷移之中，針對OneDrive與SharePoint Online部分，將以Azure Storage Accont 作為暫存空間，
-
-因此需要準備Azure Storage Account並依據以下方式進行設定。
-
 Step 1. 登入 [Azure Portal](https://portal.azure.com/) 
 
 Step 2. 於Azure Portal的搜尋列輸入 ***儲存體帳戶*** -
@@ -96,6 +92,8 @@ Step 4. 執行方才下載的 Pre-provision_OneDrive.ps1，執行後會需要輸
 ---
 
 ### 3. Destination 管理者與應用程式權限
+
+由於BitTitan的遷移會透過API方式進行驗證後，進而取用資料，因此將會需要預先給定管理者足夠的權限，也需要允許BitTitan可以對SharePoint具備足夠的存取權限。
 
 Step1. 請先確認管理者權限已經開啟 SharePoint System Admin 權限<br>
 
