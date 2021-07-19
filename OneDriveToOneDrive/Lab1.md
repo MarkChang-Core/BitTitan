@@ -44,8 +44,8 @@ https://login.microsoftonline.com/common/adminconsent?client_id=e7c20566-14a7-47
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-.jpg)<br>
 
-Tips. 正確應該通過 BitTitan 官方網站中的連結進行授權 API 的存取權，請參考以下連結 - <br>
-https://help.bittitan.com/hc/en-us/articles/360038153373-Using-App-based-Authentication
+> Tips. 正確應該通過 BitTitan 官方網站中的連結進行授權 API 的存取權，請參考以下連結 - <br>
+> https://help.bittitan.com/hc/en-us/articles/360038153373-Using-App-based-Authentication
 
 Step 4. 
 
