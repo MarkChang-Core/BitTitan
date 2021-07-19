@@ -115,4 +115,4 @@ https://login.microsoftonline.com/common/adminconsent?client_id=0173390d-c130-43
 
 ---
 
-當這些資訊與環境都準備完成後，可前往 [Lab3 開始遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab.md)
+當這些資訊與環境都準備完成後，可前往 [Lab3. 開始遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab.md)
