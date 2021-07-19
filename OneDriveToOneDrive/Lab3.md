@@ -8,7 +8,7 @@
 
 Step 1. 創建專案(Project)，登入BitTitan的 [MigrationWiz](https://migrationwiz.bittitan.com/app/) 後，點選畫面右上的 ***創建項目(Create Project)***
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-0.jpg)<br>
 
 Step 2. 在項目類型之中，選擇需要建立的項目類型，選擇 ***Create a Document Project*** -
 
