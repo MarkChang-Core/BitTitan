@@ -64,6 +64,8 @@ https://help.bittitan.com/hc/en-us/articles/360038153373-Using-App-based-Authent
 
 ### 3. Destination Microsoft 365 OneDrive Pre-provision
 
+雖說在Lab 0中，我們已經確保了
+
 ---
 
 當這些資訊與環境都準備完成後，可前往 [Lab3 開始遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab.md)
