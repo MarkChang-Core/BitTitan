@@ -8,7 +8,7 @@
 
 Step 1. 創建專案(Project)，登入BitTitan的 [MigrationWiz](https://migrationwiz.bittitan.com/app/) 後，點選畫面右上的 ***創建項目(Create Project)***
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-0.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-1.jpg)<br>
 
 Step 2. 在項目類型之中，選擇需要建立的項目類型，選擇 ***Create a Document Project*** -
 
@@ -19,7 +19,7 @@ Step 3. 在項目信息中，幫接下來要進行的遷移項目建立一個好
 > Tips. 若你的身分是系統整合商，且正協助客戶進行遷移，未來也可能長期使用BitTitan，建議你可以針對不同客戶建立客戶名稱，
 但若是你的身分為終端客戶，那麼選擇Default也是可以的選項。 
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image2-3.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-0.jpg)<br>
 
 Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，並將端點類型選擇為 ***OneDrive for Business***，並輸入Administrator登入資訊 -
 
