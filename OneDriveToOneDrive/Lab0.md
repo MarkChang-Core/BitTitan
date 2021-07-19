@@ -20,16 +20,16 @@
 
 通常遷移策略上，我們依據這個流程進行完成的遷移作業 - 
 
-> Verify credenitial > Trial Migration > Full-Migration > Retry Error > User Migration > Pre-Stage Migration
+> Verify credential > Trial Migration > Full Migration > Retry Error > User Login info Change > Pre-Stage Migration
 
 這些流程代表的觀念分別是 - 
 
-- 測試來源與目的的憑證是否正確
-- 測試遷移來評估遷移速率與正確率
-- 完整遷移所有資料
-- 遷移完成後的錯誤重試
-- 讓使用者開始使用新的One Drive
-- 進行階段性遷移以彌補切換期間的文件更新
+- Verify credential - 測試來源與目的的憑證是否正確
+- Trial Migration - 測試遷移來評估遷移速率與正確率
+- Full Migration - 完整遷移所有資料
+- Retry Error - 遷移完成後的錯誤重試
+- User Login info Change - 讓使用者開始使用新的One Drive，這項操作是透過Microsoft 365更換網域關聯
+- Pre-Stage Migration - 進行階段性遷移以彌補切換期間的文件更新
 
 關於上述的遷移策略，將於後續的章節之中，逐一說明遷移過程所需要執行的操作步驟與注意事項。
 
