@@ -89,3 +89,22 @@ Step 5. 創建完成Azure Storage Account後，請對應於Blade中找到 ***存
 > Tips. 你不需要為了這個遷移任務而建立任何Blob Container，這些操作均會由BitTitan在取得授權後，以API型式完成<br>
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-8.jpg)<br>
+
+#### Destination 管理者與應用程式權限準備
+
+Step1. 請先確認管理者權限已經開啟 SharePoint System Admin 權限<br>
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-3.jpg)<br>
+
+Step2. 接著請在 Source 與 Destination 的 Microsoft 365 Admin Center 中，建立一組安全性群組，並將名稱設定為 ***MigrationWiz*** <br>
+
+設定完成後，將用來作為BitTitan驗證憑據的管理員加入成為 ***成員***<br>
+
+Step3. 接著請以全域管理者身分，授權BitTitan API的存取權，透過全域管理員身分登入 BitTitan 所提供的授權連結，請參考 BitTitan 官方網站 -<br>
+
+https://help.bittitan.com/hc/en-us/articles/360038153373-Using-App-based-Authentication<br>
+
+點擊上述連結後，以管理員身分點選 ***接受*** -<br>
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-9.jpg)<br>
+
