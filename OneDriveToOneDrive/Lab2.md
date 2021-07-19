@@ -14,6 +14,8 @@
 
 以下將逐步引導操作。
 
+---
+
 ### 1. Azure Storage Account
 
 Step 1. 登入 [Azure Portal](https://portal.azure.com/) 
