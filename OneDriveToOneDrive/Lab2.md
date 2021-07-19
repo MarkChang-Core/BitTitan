@@ -6,6 +6,14 @@
 
 因此還是建議可先到Destination中創建完成所有的使用者帳號。
 
+而在Lab2之中，主要我們需要準備 3 個權限與物件，分別是 -
+
+- Azure Storage Account 做為暫存使用的中繼站
+- 為 Destination 的 OneDrive 使用者環境進行預先佈建
+- 為 Destination 管理者與應用程式權限進行設定
+
+以下將逐步引導操作。
+
 ### 1. Azure Storage Account
 
 在BitTitan的遷移之中，針對OneDrive與SharePoint Online部分，將以Azure Storage Accont 作為暫存空間，
