@@ -38,5 +38,5 @@ https://login.microsoftonline.com/common/adminconsent?client_id=0173390d-c130-43
 
 ---
 
-當這些資訊與環境都準備完成後，可前往 [Lab2 Destination 環境準備](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md)
+當這些資訊與環境都準備完成後，可前往 [Lab2. Destination 環境準備](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md)
 
