@@ -36,7 +36,8 @@ Step 4. 建立為GPv2規格的Azure Storage Account，建立規格請參考如�
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-7.jpg)<br>
 
-Step 5. 創建完成Azure Storage Account後，請對應於Blade中找到 ***存取金鑰***，並點擊顯示金鑰後，保存好 ***儲存體帳戶名稱*** 與 ***機碼***，在後續的遷移過程中將會需要
+Step 5. 創建完成Azure Storage Account後，請對應於Blade中找到 ***存取金鑰***，並點擊顯示金鑰後，<br>
+保存好 ***儲存體帳戶名稱*** 與 ***機碼***，在後續的遷移過程中將會需要使用
 
 > Tips. 儲存體帳戶名稱則通常會長得像是 ***accountname***<br>
 > Tips. 機碼通常會長得像是 ***W1RrDfkPNkfYfdVqizMNJjn5mXchwMP5uYBY8MsMqWTA7EubG911+4fZlki0Gag==***<br>
