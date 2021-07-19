@@ -31,8 +31,7 @@
 - MX Record Change - 讓使用者開始使用新的One Drive，這項操作是透過Microsoft 365更換網域與MX Record
 - Pre-Stage Migration - 進行階段性遷移以彌補切換期間的文件更新
 
-> Tips. Tenant to Tenant Migration 在 Microsoft 365之中，一定會出現Down-time，因此建議離峰時間執行，<br>
-> 同時也可預先修改DNS TTL、加速DNS的作用與更新時間。
+> Tips. Tenant to Tenant Migration 在 Microsoft 365之中，一定會出現Down-time，因此建議離峰時間執行，同時也可預先修改DNS TTL、加速DNS的作用與更新時間。
 
 關於上述的遷移策略，將於後續的章節之中，逐一說明遷移過程所需要執行的操作步驟與注意事項。
 
