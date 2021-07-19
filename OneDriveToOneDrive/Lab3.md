@@ -10,33 +10,23 @@
 
 ---
 
-### 新增Items 方式 -
+### 2. 新增Items 方式
 
 BitTitan 提供新增Items的方式共有 4 種，但因應Tenant to Teanant的情境，因此本文中僅會說明 3 種，分別是 -<br>
 
-#### 1. Quick Add -
+#### Quick Add -
 
 此功能為快速添加，點選後可直接輸入Source與其對應的Destination，並且快速加入一組Item<br>
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image3-1.jpg)<br>
 
-#### 2. 批量添加 -
+#### 批量添加 -
  
 透過此功能可一次性以CSV檔案新增大量的使用者，點選後可以下載範例的CSV檔案，接著可以利用 [Lab1](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab1.md) 所蒐集的資料進行新增。<br>
 
 > Tips. 此處無論是否於Source或Destination端點創建時輸入Administrastor登入資訊，此處均可不需輸入 ***Password***，但 ***Email*** 與 ***Login Name*** 是必要的。
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image3-2.jpg)<br>
-
-#### 3. Autodiscover Items -
-
-如果透過Autodiscover，會非常節省人力的方式來新增使用者帳號，但其方式主要是自動尋找Source的UPN，並對應上Destination，
-
-換言之若你的情境中Source與Destination是完全不同的UPN，那麼這個方式將不適合你使用。
-
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Image/image3-3.jpg)<br>
-
----
 
 在依據你所需要的方式建立完任務之後，接下來就可以開始進行遷移的項目，
 
