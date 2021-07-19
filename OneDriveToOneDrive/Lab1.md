@@ -1,6 +1,6 @@
 # Microsoft 365 One Drive to Microsoft 365 One Drive
 
-## Lab 1 - S環境與事前確認
+## Lab 1 - Source 環境準備
 
 如同前章所述，為方便說明，這邊準備了一個模擬情境以進行遷移，內容如下 - 
 
@@ -10,9 +10,7 @@
 
 首先需要先針對 Source 環境進行一些準備，詳細說明如下。
 
-### Source 環境準備
-
-#### 使用者清單準備
+### 使用者清單準備
 
 在遷移之中，會需要使用到全域管理員身分作為Credential，若無法索取到全域管理員，至少需是對Source信箱具有存取權限的帳號，
 
@@ -28,7 +26,7 @@
 
 由於BitTitan支援透過全域管理員的Credenitail作為驗證，因此在整理出的遷移清單中，是可以不填入密碼的。
 
-#### Source 管理者與應用程式權限準備
+### Source 管理者與應用程式權限準備
 
 Step1. 請先確認管理者權限已經開啟 SharePoint System Admin 權限<br>
 
@@ -48,5 +46,5 @@ https://help.bittitan.com/hc/en-us/articles/360038153373-Using-App-based-Authent
 
 ---
 
-當這些資訊與環境都準備完成後，可前往 [Lab2 建立遷移項目](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md)
+當這些資訊與環境都準備完成後，可前往 [Lab2 Destination 環境準備](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md)
 
