@@ -71,7 +71,7 @@ Step 3. 先確保已經完成安裝 SharePoint Online 管理命令介面 PowerSh
 
 ```Get-Module -Name Microsoft.Online.SharePoint.PowerShell -ListAvailable | Select Name,Version```
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive2-6.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive2-1.jpg)<br>
 
 > Tips. 若未完成 SharePoint Online 管理命令介面 PowerShell 的安裝，請執行以下命令進行安裝 - <br>
 > ```Install-Module -Name Microsoft.Online.SharePoint.PowerShell```
@@ -83,7 +83,7 @@ Step 4. 執行方才下載的 Pre-provision_OneDrive.ps1，執行後會需要輸
 
 > Tips. Pre-provision_OneDrive.ps1 的內容將為組織中的所有授權使用者預先佈建 OneDrive，若希望針對各別使用者佈建，請參考 [連結](https://docs.microsoft.com/zh-tw/onedrive/pre-provision-accounts#pre-provision-onedrive-for-users)
 
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive2-7.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive2-2.jpg)<br>
 
 ---
 
