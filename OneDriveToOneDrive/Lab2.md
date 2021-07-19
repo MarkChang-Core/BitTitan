@@ -31,7 +31,7 @@ Step 4. 建立為GPv2規格的Azure Storage Account，建立規格請參考如�
 
 其餘設定選擇請保留為預設，並直接點選 ***檢閱 + 建立***，再選擇 ***建立***
 
-> Tips. 由於屬於一次性的遷移作業，且大多數的遷移任務均會在一個月內完成，因此若控制得宜，此作業將僅會產生極少數的費用。
+> Tips. 由於屬於一次性的遷移作業，且大多數的遷移任務均會在一個月內完成，因此若控制得宜，此作業將僅會產生極少數的費用。<br>
 > Tips. 若您有未申請過試用的信用卡，也可以選擇建立[Azure Free Trial](https://azure.microsoft.com/zh-tw/free/) 同樣可以達到這個效果
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-7.jpg)<br>
