@@ -110,3 +110,5 @@ https://help.bittitan.com/hc/en-us/articles/360038153373-Using-App-based-Authent
 
 ---
 
+當這些資訊與環境都準備完成後，可前往 [Lab2 建立遷移項目](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md)
+
