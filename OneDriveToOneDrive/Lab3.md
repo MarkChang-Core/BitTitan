@@ -35,13 +35,23 @@ Step 5. 在Destination Endpoint建立頁面，選擇 ***新建(Create)***，接�
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-3.jpg)<br>
 
-完成後點擊 ***保存項目*** 即完成設項目建置。
+完成後點擊 ***保存項目*** 即完成設 項目建置。
 
 ---
 
 ###  2. 進階選項設定
 
+完成項目建立之後，接著需要額外進行幾項必要參數的添加，方可開始進行遷移，操作步驟與參數如下 - 
+
+Step 1. 進入方才建立完成的項目後，點擊畫面左上角的 ***編輯項目 > Advanced Options*** -
+
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-4.jpg)<br>
+
+Step 2. 於 ***Support頁籤*** 中，逐一輸入以下參數後，點選 ***Save*** - 
+```DestPersonalSiteIsProvisioned=1```
+```UseApplicationPermission=1```
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-4.jpg)<br>
 
 ---
 
-當前述設定完成後，點選保存項目即創建完成，可前往 [Lab3 建立遷移項目](https://github.com/MarkChang-Core/BitTitan/blob/main/Microsoft%20365%20Exchange%20Online%20to%20Microsoft%20365%20Exchange%20Online/Lab3.md)。
+當前述設定完成後，點選保存項目即創建完成，可前往 [Lab4 開始遷移](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab4.md)。
