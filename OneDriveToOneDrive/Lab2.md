@@ -48,17 +48,19 @@ Step 5. 創建完成Azure Storage Account後，請對應於Blade中找到 ***存
 
 ### 2. Destination Microsoft 365 OneDrive Pre-provision
 
-通常在遷移開始之前，多數管理者均以在Destination中建立完成了具有OneDrive授權的使用者，但Microsoft 365的OneDrive在使用者首次登入前，
+通常在遷移開始前，多數管理者均已在Destination完成了具有OneDrive授權的使用者建立，但OneDrive在使用者首次登入前，
 
-是不會完成OneDrive佈建的，多數管理者均不曉得這個行為，因為通常在發給使用者登入資訊後，使用者正常登入即可使用了，
+是不會完成佈建的，這個狀況將直接導致遷移或驗證失敗，而多數管理者均不曉得這個行為，因為通常在發給使用者登入資訊後，
 
-但在大量的遷移作業之下，我們不可能在遷移完成前就讓使用者可以登入Destination環境，同時也不可能逐一登入Destination的OneDrive帳號使其開始佈建，
+使用者正常登入即可使用了，但在大量的遷移作業之下，我們不可能在遷移完成前就讓使用者可以登入Destination環境，
 
-因此我們便需要先執行一些指令來確保OneDrive均在遷移動作開始前，均是佈建完成的，這項操作可以參考 Microsoft 官方文件 - 
+同時也不可能逐一登入Destination的OneDrive帳號使其開始佈建，因此我們便需要先執行一些指令來確保OneDrive均在遷移動作開始前，
+
+均已完成預先佈建，這項操作可以參考 Microsoft 官方文件 - 
 
 https://docs.microsoft.com/zh-tw/onedrive/pre-provision-accounts
 
-如下我們將引導操作 -
+如下我們將逐步引導操作 -
 
 Step 1. 點擊下載 [Pre-provision_OneDrive.ps1](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Pre-provision_OneDrive.ps1)
 
