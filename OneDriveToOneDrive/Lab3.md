@@ -16,12 +16,13 @@ Step 2. 在項目類型之中，選擇需要建立的項目類型，選擇 ***Cr
 
 Step 3. 在項目信息中，幫接下來要進行的遷移項目建立一個好記名稱，並且給定客戶名稱後，點擊 下一步驟
 
-> Tips. 若你的身分是系統整合商，且正協助客戶進行遷移，未來也可能長期使用BitTitan，建議你可以針對不同客戶建立客戶名稱，
-但若是你的身分為終端客戶，那麼選擇Default也是可以的選項。 
+> Tips. 若你的身分是系統整合商，且正協助客戶進行遷移，未來也可能長期使用BitTitan，建議你可以針對不同客戶建立客戶名稱，<br>
+> 但若是你的身分為終端客戶，那麼選擇Default也是可以的選項。 
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-0.jpg)<br>
 
 Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，<br>
+
 並將端點類型選擇為 ***OneDrive for Business***，並輸入Administrator登入資訊，輸入完成後，點擊下一步驟 -
 
 > Tips. 於此處可以選擇 ***Provide Credentials*** 或 ***Do not provide credentials*** 兩者的差異如下 - <br>
@@ -31,6 +32,7 @@ Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-2.jpg)<br>
 
 Step 5. 在Destination Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint好記名稱，並將端點選擇為 ***OneDrive for Business***，<br>
+
 並輸入Administrator登入資訊後，需要輸入在 [Lab2](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md#1-azure-storage-account) 中建立的Azure Storage Account資訊 -
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-3.jpg)<br>
