@@ -47,10 +47,10 @@ Step 1. 進入方才建立完成的項目後，點擊畫面左上角的 ***編�
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-4.jpg)<br>
 
-Step 2. 於 ***Support頁籤*** 中，逐一輸入以下參數後，點選 ***Save*** - 
-```DestPersonalSiteIsProvisioned=1```
-```UseApplicationPermission=1```
-![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-4.jpg)<br>
+Step 2. 於 ***Support頁籤*** 中，逐一輸入以下參數後，點選 ***Save*** -<br>
+```DestPersonalSiteIsProvisioned=1```<br>
+```UseApplicationPermission=1```<br>
+![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-5.jpg)<br>
 
 ---
 
