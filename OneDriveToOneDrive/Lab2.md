@@ -1,11 +1,11 @@
 
-### Destination 環境準備
+## Destination 環境與事前確認
 
 雖說BitTitan可以依據你的Source資訊到Destination中創建使用者帳號，但由於採用此方式過程較為繁瑣，且需設定更多權限，
 
 因此還是建議可先到Destination中創建完成所有的使用者帳號。
 
-#### Azure Storage Account
+### Azure Storage Account
 
 在BitTitan的遷移之中，針對OneDrive與SharePoint Online部分，將以Azure Storage Accont 作為暫存空間，
 
@@ -43,7 +43,7 @@ Step 5. 創建完成Azure Storage Account後，請對應於Blade中找到 ***存
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive1-8.jpg)<br>
 
-#### Destination 管理者與應用程式權限準備
+### Destination 管理者與應用程式權限準備
 
 Step1. 請先確認管理者權限已經開啟 SharePoint System Admin 權限<br>
 
