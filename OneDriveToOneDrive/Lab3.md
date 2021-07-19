@@ -21,7 +21,8 @@ Step 3. 在項目信息中，幫接下來要進行的遷移項目建立一個好
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-0.jpg)<br>
 
-Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，並將端點類型選擇為 ***OneDrive for Business***，並輸入Administrator登入資訊 -
+Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，<br>
+並將端點類型選擇為 ***OneDrive for Business***，並輸入Administrator登入資訊，輸入完成後，點擊下一步驟 -
 
 > Tips. 於此處可以選擇 ***Provide Credentials*** 或 ***Do not provide credentials*** 兩者的差異如下 - <br>
 > ***Provide Credentials*** - 往後於此項目的遷移任務中，均依據您當前提供的管理者登入資訊作為驗證憑據。<br>
@@ -29,11 +30,8 @@ Step 4. 在Source Endpoint建立頁面，選擇 ***新建(Create)***，接著給
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-2.jpg)<br>
 
-輸入完成後，點擊下一步驟
-
-Step 5. 在Destination Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，並將端點類型選擇為 ***OneDrive for Business***，並輸入Administrator登入資訊 -
-
-接著需要輸入在 Lab2 中建立的Azure Storage Account資訊 -
+Step 5. 在Destination Endpoint建立頁面，選擇 ***新建(Create)***，接著給定Source Endpoint一個好記名稱，並將端點類型選擇為 ***OneDrive for Business***，<br>
+並輸入Administrator登入資訊後，需要輸入在 [Lab2](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/Lab2.md#1-azure-storage-account) 中建立的Azure Storage Account資訊 -
 
 ![GITHUB](https://github.com/MarkChang-Core/BitTitan/blob/main/OneDriveToOneDrive/image/image-onedrive3-3.jpg)<br>
 
