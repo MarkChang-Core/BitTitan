@@ -1,1 +1,3 @@
 UseApplicationPermission=1
+
+DestPersonalSiteIsProvisioned=1
