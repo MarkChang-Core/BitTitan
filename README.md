@@ -2,7 +2,7 @@
 
 BitTitan 是一項針對SaaS所設計的一系列遷移服務，本篇說明將針對以下情境進行 -
 
-## Tenant ot Tenant
+## Tenant to Tenant
 
 - Microsoft 365 Exchange Online to Microsoft 365 Exchange Online
 - Microsoft 365 One Drive to Microsoft 365 One Drive
